@@ -1,0 +1,15 @@
+course_id,title,track,level,duration_hrs
+ML-101,Python for Data Science & Pandas,AI & ML,Foundational,12
+ML-102,Scikit-Learn Supervised Algorithms,AI & ML,Intermediate,18
+ML-103,XGBoost & Ensemble Methods,AI & ML,Intermediate,15
+ML-104,PyTorch Neural Networks & Vision,AI & ML,Advanced,25
+ML-105,NLP with Transformers & TF-IDF,AI & ML,Advanced,20
+DEV-201,FastAPI Microservices Architecture,Backend Dev,Foundational,14
+DEV-202,Django REST Framework Essentials,Backend Dev,Intermediate,20
+DEV-203,PostgreSQL Optimization & Indexing,Backend Dev,Intermediate,16
+DEV-204,Async Worker Queues with Celery & Redis,Backend Dev,Advanced,18
+OPS-301,Docker Containerization Fundamentals,DevOps & Cloud,Foundational,10
+OPS-302,CI/CD Automation with GitHub Actions,DevOps & Cloud,Intermediate,12
+OPS-303,Model Serving & Streamlit Community Cloud,DevOps & Cloud,Intermediate,8
+BI-401,Power BI & DAX Reporting Systems,Data Analytics,Foundational,15
+BI-402,Customer Segmentation & RFM Analytics,Data Analytics,Intermediate,14
